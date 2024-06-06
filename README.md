@@ -1,5 +1,6 @@
 # Disaster-Tweet-Detection
-Detecting Disaster Tweet whether its fake or real
+Detecting Disaster Tweet whether its fake or real.
+This project is made on Jupyter Notebook which is a part of Anaconda Navigator. This project ran successfully on Jupyter Notebook. 
 
 ### Languages used:
 - HTML
